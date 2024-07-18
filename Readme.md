@@ -1,3 +1,80 @@
+# Product Filter and Display
+
+This project demonstrates a product filter and display system using HTML, CSS, and JavaScript. The webpage is fully responsive, ensuring optimal viewing on mobile, tablet, and desktop screens.
+
+## Features
+
+- **Filter Products**: Users can filter products by category.
+- **Dynamic Product Display**: Products are dynamically loaded and displayed based on the selected filter.
+- **Responsive Design**: The webpage is responsive across different devices.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- Fetch API
+
+## Demo
+
+### Filter Options
+
+The filter options allow users to select different product categories and view the respective products.
+
+#### Man
+
+![Man Filter](path_to_your_image/man-filter.png)
+
+#### Woman
+
+![Woman Filter](path_to_your_image/woman-filter.png)
+
+#### Kids
+
+![Kids Filter](path_to_your_image/kids-filter.png)
+
+### Responsive Design
+
+The webpage is designed to be fully responsive. Here are the different views:
+
+#### Mobile Screen (Up to 767px)
+
+![Mobile View](path_to_your_image/mobile-view.png)
+
+#### Tablet Screen (768px to 1024px)
+
+![Tablet View](path_to_your_image/tablet-view.png)
+
+#### Desktop Screen (Above 1025px)
+
+![Desktop View](path_to_your_image/desktop-view.png)
+
+## Getting Started
+
+Follow these instructions to get a copy of the project up and running on your local machine.
+
+### Prerequisites
+
+- A web browser
+- Internet connection
+
+### Installation
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your_username/your_repository.git
+
+
+
+
+
+
+
+
+
+
+
+
 # Coding Assessment L-2 Code Submission Process with Boilerplate
 
 Welcome to the coding assessment l2. We are excited to see your skills in action. Please follow the instructions below to submit your solution.
