@@ -23,15 +23,18 @@ The filter options allow users to select different product categories and view t
 
 #### Man
 
-![Man Filter](path_to_your_image/man-filter.png)
+![Man Filter](https://github.com/user-attachments/assets/4ca7d221-a254-46bc-83b0-53be4302753b)
+
 
 #### Woman
 
-![Woman Filter](path_to_your_image/woman-filter.png)
+![Woman Filter](https://github.com/user-attachments/assets/6e8a3759-a588-4faf-b7c1-6aaaa200c5be)
+
 
 #### Kids
 
-![Kids Filter](path_to_your_image/kids-filter.png)
+![Kids Filter](https://github.com/user-attachments/assets/26334ea2-5199-4817-a106-66315a086697)
+
 
 ### Responsive Design
 
