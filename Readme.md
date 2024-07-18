@@ -42,15 +42,20 @@ The webpage is designed to be fully responsive. Here are the different views:
 
 #### Mobile Screen (Up to 767px)
 
-![Mobile View](path_to_your_image/mobile-view.png)
+![Mobile View](https://github.com/user-attachments/assets/df2815bf-1c1b-412d-8bc8-f0b0211b6e35)
+![Pixel 7}](https://github.com/user-attachments/assets/b19453f0-f9e0-4495-b030-8076bfdd6698)
+
+
 
 #### Tablet Screen (768px to 1024px)
 
-![Tablet View](path_to_your_image/tablet-view.png)
+![Tablet View]![Screenshot (3709)](https://github.com/user-attachments/assets/1fc1860a-c548-46b7-9b13-4c6999e10881)
+
 
 #### Desktop Screen (Above 1025px)
 
-![Desktop View](path_to_your_image/desktop-view.png)
+![Desktop View](https://github.com/user-attachments/assets/9ea20731-b1c8-4306-a7a2-b0ea3d0aabb6)
+
 
 
 
