@@ -43,7 +43,8 @@ The webpage is designed to be fully responsive. Here are the different views:
 #### Mobile Screen (Up to 767px)
 
 ![Mobile View](https://github.com/user-attachments/assets/dd87f34c-d501-47cb-ba8b-e70337709f15)
-![Pixel 7}](https://github.com/user-attachments/assets/b19453f0-f9e0-4495-b030-8076bfdd6698)
+![Pixel 7}](https://github.com/user-attachments/assets/e86b0871-451c-4c99-ac1a-1b147e32291e)
+
 
 
 
