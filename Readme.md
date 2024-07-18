@@ -49,20 +49,6 @@ The webpage is designed to be fully responsive. Here are the different views:
 
 ![Desktop View](path_to_your_image/desktop-view.png)
 
-## Getting Started
-
-Follow these instructions to get a copy of the project up and running on your local machine.
-
-### Prerequisites
-
-- A web browser
-- Internet connection
-
-### Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your_username/your_repository.git
 
 
 
